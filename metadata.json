@@ -1,0 +1,7 @@
+{
+  "name": "AI CV Builder",
+  "description": "AI-powered CV builder for personal branding with voice input and bilingual support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
